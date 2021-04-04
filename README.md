@@ -1,4 +1,4 @@
-#PURE NODEJS UNIT TEST (no npm)
+#PURE NODEJS UNIT TEST (no npm dependecies needed)
 
 This is a simple poc of pure Nodejs unit test. No `npm install` needed. 
 
